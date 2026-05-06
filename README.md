@@ -1,11 +1,11 @@
 # awesome-cli
 
-> 国内大厂 CLI 工具合集 · 专为 AI Agent 场景整理
+> 企业与开发平台 CLI 工具合集 · 专为 AI Agent 场景整理
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-收录飞书、钉钉、企业微信、腾讯会议等国内主流平台的 CLI 工具，
-帮助开发者和 AI Agent 通过命令行操作企业应用。
+收录飞书、钉钉、企业微信、腾讯会议等企业与开发平台常用 CLI 工具，
+帮助开发者和 AI Agent 通过命令行操作企业应用与云服务。
 
 ## 目录
 
