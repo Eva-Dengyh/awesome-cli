@@ -1,11 +1,10 @@
 # awesome-cli
 
-> 企业与开发平台 CLI 工具合集 · 专为 AI Agent 场景整理
+> 开发者 CLI 工具合集 · 专为 AI Agent 场景整理
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-收录飞书、钉钉、企业微信、腾讯会议等企业与开发平台常用 CLI 工具，
-帮助开发者和 AI Agent 通过命令行操作企业应用与云服务。
+收录企业协作、云服务、AI/LLM、文件处理、网络调试、容器与 K8s、IaC、安全扫描、开发效率等方向的高质量 CLI 工具（均为 GitHub 10k+ star 或官方出品），帮助开发者和 AI Agent 通过命令行完成各类工程任务。
 
 ## 目录
 
@@ -20,6 +19,11 @@
 - [网络与 API](#网络与-api)
 - [容器与 K8s](#容器与-k8s)
 - [数据库](#数据库)
+- [版本与包管理](#版本与包管理)
+- [CI/CD](#cicd)
+- [IaC 与安全](#iac-与安全)
+- [开发效率](#开发效率)
+- [Shell 增强](#shell-增强)
 
 ---
 
@@ -115,6 +119,58 @@
 | 产品 | 仓库 | 简介 |
 |------|------|------|
 | pgcli | [dbcli/pgcli](https://github.com/dbcli/pgcli) | PostgreSQL 智能补全 CLI（12k+） |
+
+## 版本与包管理
+
+| 产品 | 仓库 | 简介 |
+|------|------|------|
+| nvm | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Node.js 版本管理（80k+） |
+| pyenv | [pyenv/pyenv](https://github.com/pyenv/pyenv) | Python 版本管理（40k+） |
+| uv | [astral-sh/uv](https://github.com/astral-sh/uv) | 极速 Python 包管理器（30k+） |
+| pnpm | [pnpm/pnpm](https://github.com/pnpm/pnpm) | 高效 Node 包管理器（30k+） |
+| asdf | [asdf-vm/asdf](https://github.com/asdf-vm/asdf) | 多语言版本管理（22k+） |
+| rbenv | [rbenv/rbenv](https://github.com/rbenv/rbenv) | Ruby 版本管理（16k+） |
+
+## CI/CD
+
+| 产品 | 仓库 | 简介 |
+|------|------|------|
+| act | [nektos/act](https://github.com/nektos/act) | 本地运行 GitHub Actions（56k+） |
+| ArgoCD | [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | GitOps 持续交付工具（18k+） |
+| Dagger | [dagger/dagger](https://github.com/dagger/dagger) | 可编程 CI/CD 引擎（12k+） |
+| Earthly | [earthly/earthly](https://github.com/earthly/earthly) | 容器化构建自动化（11k+） |
+
+## IaC 与安全
+
+| 产品 | 仓库 | 简介 |
+|------|------|------|
+| Terraform | [hashicorp/terraform](https://github.com/hashicorp/terraform) | 基础设施即代码（43k+） |
+| OpenTofu | [opentofu/opentofu](https://github.com/opentofu/opentofu) | Terraform 开源分支（23k+） |
+| Trivy | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | 容器与代码安全扫描（24k+） |
+| Gitleaks | [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) | 密钥泄露检测（18k+） |
+| TruffleHog | [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) | 密钥扫描工具（17k+） |
+| Infracost | [infracost/infracost](https://github.com/infracost/infracost) | 云成本估算 CLI（11k+） |
+
+## 开发效率
+
+| 产品 | 仓库 | 简介 |
+|------|------|------|
+| kubectl | [kubernetes/kubectl](https://github.com/kubernetes/kubectl) | Kubernetes 命令行工具（14k+） |
+| just | [casey/just](https://github.com/casey/just) | 现代 make 替代，任务运行器（22k+） |
+| hyperfine | [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) | 命令行基准测试工具（21k+） |
+| navi | [denisidoro/navi](https://github.com/denisidoro/navi) | 交互式命令速查（15k+） |
+| direnv | [direnv/direnv](https://github.com/direnv/direnv) | 目录级环境变量管理（13k+） |
+| tldr | [tldr-pages/tldr](https://github.com/tldr-pages/tldr) | 简化版 man pages（52k+） |
+| task | [go-task/task](https://github.com/go-task/task) | 简洁任务运行器（11k+） |
+
+## Shell 增强
+
+| 产品 | 仓库 | 简介 |
+|------|------|------|
+| zoxide | [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) | 智能 cd 替代，学习常用目录（23k+） |
+| delta | [dandavison/delta](https://github.com/dandavison/delta) | git diff 语法高亮（22k+） |
+| atuin | [atuinsh/atuin](https://github.com/atuinsh/atuin) | shell 历史增强，支持同步搜索（22k+） |
+| eza | [eza-community/eza](https://github.com/eza-community/eza) | 现代 ls 替代（13k+） |
 
 ---
 
