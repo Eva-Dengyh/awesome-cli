@@ -16,6 +16,10 @@
 - [云服务](#云服务)
 - [国际云服务](#国际云服务)
 - [AI 工具](#ai-工具)
+- [文件处理](#文件处理)
+- [网络与 API](#网络与-api)
+- [容器与 K8s](#容器与-k8s)
+- [数据库](#数据库)
 
 ---
 
@@ -78,6 +82,39 @@
 | 腾讯 AI CLI | [腾讯 AI CLI](https://news.qq.com/rain/a/20250815A0371G00) | 腾讯 CodeBuddy 配套 CLI |
 | Ollama | [ollama/ollama](https://github.com/ollama/ollama) | 本地运行 LLM 的 CLI 工具，100k+ star |
 | llm | [simonw/llm](https://github.com/simonw/llm) | 通用 LLM 命令行接口，支持多模型 |
+
+## 文件处理
+
+| 产品 | 仓库 | 简介 |
+|------|------|------|
+| ripgrep | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | 极速正则搜索，自动忽略 .gitignore（49k+） |
+| fzf | [junegunn/fzf](https://github.com/junegunn/fzf) | 通用命令行模糊查找器（66k+） |
+| bat | [sharkdp/bat](https://github.com/sharkdp/bat) | 带语法高亮的 cat 替代品（49k+） |
+| fd | [sharkdp/fd](https://github.com/sharkdp/fd) | 简洁快速的 find 替代品（34k+） |
+| jq | [jqlang/jq](https://github.com/jqlang/jq) | 轻量级命令行 JSON 处理器（30k+） |
+| yq | [mikefarah/yq](https://github.com/mikefarah/yq) | 类 jq 的 YAML/JSON/XML 处理工具（12k+） |
+
+## 网络与 API
+
+| 产品 | 仓库 | 简介 |
+|------|------|------|
+| mitmproxy | [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) | 交互式 HTTPS 代理与流量分析（37k+） |
+| hurl | [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) | 用纯文本文件运行和测试 HTTP 请求（13k+） |
+| grpcurl | [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) | 类 curl 的 gRPC 命令行工具（11k+） |
+
+## 容器与 K8s
+
+| 产品 | 仓库 | 简介 |
+|------|------|------|
+| dive | [wagoodman/dive](https://github.com/wagoodman/dive) | 探索 Docker 镜像层内容（47k+） |
+| helm | [helm/helm](https://github.com/helm/helm) | Kubernetes 包管理器（27k+） |
+| kubectx | [ahmetb/kubectx](https://github.com/ahmetb/kubectx) | 快速切换 K8s context 和 namespace（17k+） |
+
+## 数据库
+
+| 产品 | 仓库 | 简介 |
+|------|------|------|
+| pgcli | [dbcli/pgcli](https://github.com/dbcli/pgcli) | PostgreSQL 智能补全 CLI（12k+） |
 
 ---
 
