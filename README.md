@@ -10,9 +10,11 @@
 ## 目录
 
 - [企业协作](#企业协作)
+- [国际协作平台](#国际协作平台)
 - [腾讯系](#腾讯系)
 - [内容平台](#内容平台)
 - [云服务](#云服务)
+- [国际云服务](#国际云服务)
 - [AI 工具](#ai-工具)
 
 ---
@@ -24,6 +26,14 @@
 | 飞书 | [open.feishu.cn](https://open.feishu.cn/document/tools-and-resources/development-tools/ide-with-commands) | 飞书官方 CLI，支持消息、日历、文档、AI Agent |
 | 钉钉 | [DingTalk-Real-AI/dingtalk-workspace-cli](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli) | 钉钉官方开源 CLI，统一封装全套能力 |
 | 企业微信 | [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli) | 企业微信官方 CLI，内置 12 个 Skills |
+
+## 国际协作平台
+
+| 产品 | 仓库 | 简介 |
+|------|------|------|
+| GitHub CLI | [cli/cli](https://github.com/cli/cli) | GitHub 官方 CLI，管理 PR、issue、workflow |
+| GitLab CLI | [gitlab-org/cli](https://github.com/gitlab-org/cli) | GitLab 官方 CLI，管理 MR、issue、pipeline |
+| Jira CLI | [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) | Jira 终端 CLI，支持 issue 浏览与操作 |
 
 ## 腾讯系
 
@@ -53,12 +63,21 @@
 | 火山引擎 | [volcengine/volcengine-cli](https://github.com/volcengine/volcengine-cli) | 字节火山引擎 CLI |
 | 百度千帆 | [Kilo CLI](https://cloud.baidu.com/doc/qianfan/s/emmyn316m) | 百度千帆大模型平台 CLI |
 
+## 国际云服务
+
+| 产品 | 仓库 | 简介 |
+|------|------|------|
+| AWS CLI | [aws/aws-cli](https://github.com/aws/aws-cli) | AWS 官方 CLI，覆盖全部云服务 |
+| Vercel CLI | [vercel/vercel](https://github.com/vercel/vercel) | 前端项目一键部署 CLI |
+
 ## AI 工具
 
 | 产品 | 仓库 | 简介 |
 |------|------|------|
 | 火山引擎 veCLI | [veCLI](https://www.ithome.com/0/882/544.htm) | 字节豆包大模型终端 AI 工具 |
 | 腾讯 AI CLI | [腾讯 AI CLI](https://news.qq.com/rain/a/20250815A0371G00) | 腾讯 CodeBuddy 配套 CLI |
+| Ollama | [ollama/ollama](https://github.com/ollama/ollama) | 本地运行 LLM 的 CLI 工具，100k+ star |
+| llm | [simonw/llm](https://github.com/simonw/llm) | 通用 LLM 命令行接口，支持多模型 |
 
 ---
 
