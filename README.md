@@ -86,6 +86,7 @@
 | 腾讯 AI CLI | [腾讯 AI CLI](https://news.qq.com/rain/a/20250815A0371G00) | 腾讯 CodeBuddy 配套 CLI |
 | Ollama | [ollama/ollama](https://github.com/ollama/ollama) | 本地运行 LLM 的 CLI 工具，100k+ star |
 | llm | [simonw/llm](https://github.com/simonw/llm) | 通用 LLM 命令行接口，支持多模型 |
+| SandBase CLI | [sandbaseai/cli](https://github.com/sandbaseai/cli) | 社区 CLI，将 25 种 AI 编程客户端接入 2,000+ AI 模型，并提供 6 个 MCP 工具 |
 
 ## 文件处理
 
