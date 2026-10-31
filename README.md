@@ -86,6 +86,7 @@
 | 腾讯 AI CLI | [腾讯 AI CLI](https://news.qq.com/rain/a/20250815A0371G00) | 腾讯 CodeBuddy 配套 CLI |
 | Ollama | [ollama/ollama](https://github.com/ollama/ollama) | 本地运行 LLM 的 CLI 工具，100k+ star |
 | llm | [simonw/llm](https://github.com/simonw/llm) | 通用 LLM 命令行接口，支持多模型 |
+| agent-qa | [官方 CLI](https://vostride.com/docs/agent-qa/quickstart) | 用自然语言测试网页与移动端应用，结合 memidex 持久记忆、经验证的自我改进及可检查的运行证据。 |
 
 ## 文件处理
 
